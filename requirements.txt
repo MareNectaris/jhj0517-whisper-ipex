@@ -1,5 +1,6 @@
 numpy
-torch
+torch @ https://intel-optimized-pytorch.s3.cn-north-1.amazonaws.com.cn/ipex_stable/xpu/torch-1.13.0a0%2Bgitb1dde16-cp310-cp310-linux_x86_64.whl
+intel_extension_for_pytorch @ https://intel-optimized-pytorch.s3.cn-north-1.amazonaws.com.cn/ipex_stable/xpu/intel_extension_for_pytorch-1.13.120%2Bxpu-cp310-cp310-linux_x86_64.whl
 tqdm
 more-itertools
 transformers>=4.19.0
